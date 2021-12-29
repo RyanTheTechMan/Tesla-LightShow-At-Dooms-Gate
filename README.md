@@ -1,7 +1,7 @@
 # Tesla LightShow - At Doom's Gate (Doom Eternal)
 At Dooms Gate (Doom Eternal) as a Tesla Light Show
 
-[Download the latest version by clicking here.](https://github.com/RyanTheTechMan/Tesla-LightShow-AmongUs/releases/download/v1.0.0/At-Dooms-Gate-LightShow.zip)
+[Download the latest version by clicking here.](https://github.com/RyanTheTechMan/Tesla-LightShow-At-Dooms-Gate/releases/download/v1.0.0/At-Dooms-Gate-LightShow.zip)
 
 Note: There is NO movement! (Windows, Mirrors, Trunk, Doors) 
 
